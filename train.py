@@ -6,6 +6,7 @@ from torchvision import models, transforms, datasets
 import os
 import matplotlib.pyplot as plt
 
+#test
 
 # 定义自定义CNN网络
 class CustomCNN(nn.Module):
