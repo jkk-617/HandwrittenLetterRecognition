@@ -3,6 +3,8 @@ import torch.nn as nn
 from torchvision import transforms
 from PIL import Image
 
+# test3
+
 # 定义自定义CNN网络
 class CustomCNN(nn.Module):
     def __init__(self, num_classes):
