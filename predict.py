@@ -4,6 +4,7 @@ from torchvision import transforms
 from PIL import Image
 
 # test3
+# test4
 
 # 定义自定义CNN网络
 class CustomCNN(nn.Module):
